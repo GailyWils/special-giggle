@@ -1,1 +1,1 @@
-I am now an ALX student
+I am an ALX student studying fullstack development as a Software Engineer
